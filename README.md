@@ -1,6 +1,6 @@
 # Reisebroker – Verteilte Systeme Projekt
 
-Hier findet ihr die KI-Lösung von Verteilte Systeme.
+Hier findet ihr die Lösung von Verteilte Systeme.
 
 ## Inhalte
 - ZeroMQ Microservices
